@@ -1,0 +1,8 @@
+1. Log into Raspberry Pi
+2. Go to the Code Directory
+   cd ~/SunFounder_PiCar-S/
+3. Install the Environment 
+   sudo ./install_dependencies 
+4. The integrated code is present in /example folder
+5. Run the code
+   python3 integration.py
