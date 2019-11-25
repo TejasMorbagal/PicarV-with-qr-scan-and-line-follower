@@ -6,3 +6,6 @@
 4. The integrated code is present in /example folder
 5. Run the code
    python3 integration.py
+   
+   
+   Place the car on a white line on a black background as it is designed to follow the white line.
